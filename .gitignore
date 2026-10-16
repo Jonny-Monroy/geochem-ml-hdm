@@ -1,0 +1,16 @@
+# BD demo sin comprimir (se regenera desde el .zip incluido)
+data/hdm_demo.sqlite
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Sistema
+Thumbs.db
+.DS_Store
